@@ -1,0 +1,17 @@
+# Tested with: langgraph 1.2, langchain-core 1.8, langchain-community 0.4, streamlit 1.67, Python 3.13
+streamlit>=1.40
+langchain-core>=1.0
+langchain-community>=0.4
+langchain-openai
+langchain-groq>=1.0
+langchain-huggingface>=1.0
+langchain-text-splitters>=1.0
+langgraph>=1.0
+faiss-cpu
+sentence-transformers
+pypdf
+ddgs
+requests
+beautifulsoup4
+python-dotenv
+tzdata
